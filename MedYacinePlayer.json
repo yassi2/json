@@ -1,0 +1,26 @@
+{
+    
+  "AppRedirect": {
+    "status"        : false,
+    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.google.android.videos"
+  },
+  
+  "AdsController": {
+      
+    "user-agent"              : "Yacine@agent",
+      
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "InterstitialExitPlayer"  : "facebook",
+    
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+   
+    "Facebook_Banner"         : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "IMG_16_9_APP_INSTALL#692961278482629_692963491815741"
+    
+    
+  }
+}
