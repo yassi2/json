@@ -1,7 +1,7 @@
 {
     
   "AppRedirect": {
-    "status"        : false,
+    "status"        : true,
     "redirectURL"   : "https://play.google.com/store/apps/details?id=com.instagram.lite"
   },
   
