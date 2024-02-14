@@ -9,8 +9,8 @@
       
     "user-agent"              : "Yacine@agent",
       
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
+    "BannerNetwork"           : "a",
+    "InterstitialNetwork"     : "a",
     "InterstitialExitPlayer"  : "f",
     
     "IntervalClick"           : 1,
