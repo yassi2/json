@@ -2,7 +2,7 @@
     
   "AppRedirect": {
     "status"        : false,
-    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.instagram.android"
+    "redirectURL"   : "1"
   },
   
   "AdsController": {
